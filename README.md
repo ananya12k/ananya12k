@@ -19,14 +19,18 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h1>My Github Stats</h1>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya12k&count_private=true&langs_count=8&layout=compact&theme=radical" width=40% />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya12k&show_icons=true&theme=radical" width=40% />
-</p>
+
+
+
+     
+## 📊Github Commit Stats 
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananya12k&theme=dark"><br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ananya12k&theme=dark"> &nbsp; &nbsp;
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananya12k&theme=dark">
 <!--
 **ananya12k/ananya12k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+</details>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
